@@ -6,7 +6,7 @@ An interactive Excel dashboard built using the **Indian Census 2011** dataset. T
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](image.png)
 
 ---
 
@@ -69,7 +69,7 @@ Indian-Census-2011-Dashboard/
 ├── Indian_Census_2011_Dashboard.xlsx
 ├── dashboard.png
 ├── README.md
-└── Indian_Census_2011.csv
+
 ```
 
 ---
